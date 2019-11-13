@@ -1,0 +1,29 @@
+h1{
+    color: red;
+    text-align: center;
+}
+h2{
+    color: darkblue;
+    text-align: center;
+}
+main{
+    display: flex;
+}
+.Column{
+    height: 300px;
+    width: 31%;
+    display: inline-block;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+div{
+    padding: 20px;
+}
+p{
+    padding: 20px;
+}
+.photo{
+    height: 100px;
+    width: 100px;
+}
